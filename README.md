@@ -17,7 +17,6 @@
   <li>The dataset was labeled using TensorFlow.</li>
   <li>Images with a size less than 10KB were removed to improve data quality.</li>
   <li>A deep CNN model was constructed, utilizing TensorFlow and Keras.</li>
-  <li></li>
   <li>The model was trained using the Adam optimizer, categorical cross-entropy loss function, and accuracy as the metric.</li>
   <li>After training, loss and accuracy metrics were calculated.</li>
   <li>Unseen happy and sad images were used to make predictions using the trained model.</li>
