@@ -1,4 +1,4 @@
-<b><h1>CNN Image Classification</h1><?b>
+<h1>CNN Image Classification</h1><?b>
 <hr>
 <h3>Comprehensive view</h3>
 <hr>
